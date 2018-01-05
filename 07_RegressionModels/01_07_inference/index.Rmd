@@ -48,7 +48,7 @@ $$
     4. Can be used to create a confidence interval for $\theta$ via $\hat \theta \pm Q_{1-\alpha/2} \hat \sigma_{\hat \theta}$
     where $Q_{1-\alpha/2}$ is the relevant quantile from either a normal or T distribution.
 * In the case of regression with iid sampling assumptions and normal errors, our inferences will follow
-very similarily to what you saw in your inference class.
+very similarly to what you saw in your inference class.
 * We won't cover asymptotics for regression analysis, but suffice it to say that under assumptions 
 on the ways in which the $X$ values are collected, the iid sampling model, and mean model, 
 the normal results hold to create intervals and confidence intervals
@@ -150,7 +150,7 @@ g
 * We are quite confident in the regression line, so that 
   interval is very narrow.
   * If we knew $\beta_0$ and $\beta_1$ this interval would have zero width.
-* The prediction interval must incorporate the variabilibity
+* The prediction interval must incorporate the variability
   in the data around the line.
   * Even if we knew $\beta_0$ and $\beta_1$ this interval would still have width.
 
