@@ -52,7 +52,7 @@ g
 ## Residuals
 * Model $Y_i = \beta_0 + \beta_1 X_i + \epsilon_i$ where $\epsilon_i \sim N(0, \sigma^2)$.
 * Observed outcome $i$ is $Y_i$ at predictor value $X_i$
-* Predicted outcome $i$ is $\hat Y_i$ at predictor valuve $X_i$ is
+* Predicted outcome $i$ is $\hat Y_i$ at predictor value $X_i$ is
   $$
   \hat Y_i = \hat \beta_0 + \hat \beta_1 X_i
   $$
