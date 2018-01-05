@@ -52,7 +52,7 @@ The mean of the $\tilde X_i$ is 0.
 
 ---
 
-## The emprical standard deviation and variance
+## The empirical standard deviation and variance
 
 * Define the empirical variance as 
 $$
