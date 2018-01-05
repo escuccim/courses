@@ -110,7 +110,7 @@ g
 ## Experiment
 ### Use R studio's manipulate to see what value of $\mu$ minimizes the sum of the squared deviations.
 
-```
+```{r}
 library(manipulate)
 myHist <- function(mu){
     mse <- mean((galton$child - mu)^2)
