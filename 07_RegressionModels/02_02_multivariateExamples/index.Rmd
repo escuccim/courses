@@ -195,7 +195,7 @@ summary(lm(count ~ spray2, data = InsectSprays))$coef
 ## Summary
 * If we treat Spray as a factor, R includes an intercept and omits the alphabetically first level of the factor.
   * All t-tests are for comparisons of Sprays versus Spray A.
-  * Emprirical mean for A is the intercept.
+  * Empirical mean for A is the intercept.
   * Other group means are the itc plus their coefficient. 
 * If we omit an intercept, then it includes terms for all levels of the factor. 
   * Group means are the coefficients. 
